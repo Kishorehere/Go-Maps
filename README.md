@@ -2,6 +2,8 @@
 
 Go-Maps is a visual itinerary finder that provides possible routes between the source and the destination for a given transit mode.
 
+-----------------------------------------------------------
+
 ##About
 * A single page HTML/JS implementation.
 
